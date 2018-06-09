@@ -1,3 +1,9 @@
+namespace MLB
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 ari | arizona-diamondbacks
 atl | atlanta-braves
 bal | baltimore-orioles
