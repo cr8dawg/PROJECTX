@@ -1,3 +1,9 @@
+namespace NFL
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 Arizona Cardinals
 Atlanta Falcons
 Baltimore Ravens
