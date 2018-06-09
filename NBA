@@ -1,3 +1,9 @@
+namespace NBA
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 atl | atlanta-hawks
 bos | boston-celtics
 bkn | brooklyn-nets
