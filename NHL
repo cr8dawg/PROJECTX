@@ -1,3 +1,9 @@
+namespace NHL
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 ana | anaheim-ducks
 ari | arizona-coyotes
 bos | boston-bruins
